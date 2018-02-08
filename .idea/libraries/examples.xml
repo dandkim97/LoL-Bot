@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/riot-api-java-4.0.1.zip!/riot-api-java-4.0.1/examples" />
+      <root url="jar://$USER_HOME$/Downloads/riot-api-java-4.0.1.zip!/riot-api-java-4.0.1/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/riot-api-java-4.0.1.zip!/riot-api-java-4.0.1/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

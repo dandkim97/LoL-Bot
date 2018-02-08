@@ -6,6 +6,7 @@ import de.btobastian.javacord.Javacord;
 import de.btobastian.sdcf4j.CommandHandler;
 import de.btobastian.sdcf4j.handler.JavacordHandler;
 
+
 public class MyLoLBot {
 
     public MyLoLBot(String token){
@@ -13,7 +14,7 @@ public class MyLoLBot {
         api.connect(new FutureCallback<DiscordAPI>() {
             public void onSuccess(DiscordAPI discordAPI) {
                 CommandHandler cmdHandler = new JavacordHandler(api);
-//                cmdHandler.registerCommand();
+                cmdHandler.registerCommand(new LoLStatCommand());
             }
 
             public void onFailure(Throwable t) {

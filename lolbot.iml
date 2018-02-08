@@ -11,6 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="examples" level="project" />
     <orderEntry type="library" name="Maven: de.btobastian.javacord:javacord:shaded:2.0.17" level="project" />
     <orderEntry type="library" name="Maven: org.json:json:20140107" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:20.0" level="project" />
@@ -29,5 +30,7 @@
     <orderEntry type="library" name="Maven: de.btobastian.sdcf4j:sdcf4j-core:1.0.5" level="project" />
     <orderEntry type="library" name="Maven: de.btobastian.sdcf4j:sdcf4j-javacord:1.0.5" level="project" />
     <orderEntry type="library" name="Maven: de.btobastian.javacord:javacord:2.0.14" level="project" />
+    <orderEntry type="library" name="Maven: com.github.taycaldwell:riot-api-java:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.2" level="project" />
   </component>
 </module>
